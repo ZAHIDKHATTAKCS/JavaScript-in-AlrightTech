@@ -98,11 +98,107 @@
 ### <p align="center"> Git and GitHub Important Commands</p>
 <br>
 
-1. `ls` ls command used for displaying all the items in the current directory
+<hr>
 
+
+### 1. `git --v` 
+
+this command is used to check the installed version of Git on your system.
+
+<p align="center">
+<img src='./Git Images/git -v.jpg' width='90%'>
+</p>
+
+<hr>
+
+### 2. `ls` 
+
+ls command used for displaying all the items in the current directory
 
 <p align="center">
 <img src='./Git Images/ls comamnd.jpg' width='90%'>
 </p>
 
-2. zahid khattak
+<hr>
+
+### 3. `touch` 
+
+touch command used to create a file or multiple files in the directory in local
+
+<p align="center">
+<img src='./Git Images/touch command.jpg' width='90%'>
+</p>
+
+<hr>
+
+
+### 4. `git Configuration` 
+
+  Git configuration means telling Git who you are and how you want it to work for you.
+
+ in order to config the git with your github all you need to do is provide
+
+ 1. Github Username
+ 2. Email Address
+
+<p align="center">
+<img src='./Git Images/git config.jpg' width='90%'>
+</p>
+
+<hr>
+
+### 5. `git config --list` 
+The git config --list command in Git is used to display all the configuration settings that are currently applied.
+
+<p align="center">
+<img src='./Git Images/config list.jpg' width='90%'>
+</p>
+
+here is the other way to find the configured user
+
+<p align="center">
+<img src='./Git Images/git list 2.jpg' width='90%'>
+</p>
+
+<hr>
+
+### 6. `git init` 
+The git init command is used to initialize a new Git repository in a project directory.
+
+ After running git init, the directory becomes a Git repository, and you can perform further Git operations like branching, committing, and pushing to a remote repository.
+<p align="center">
+<img src='./Git Images/git init.jpg' width='90%'>
+</p>
+
+<hr>
+
+
+### 7. `git add .`
+
+ git add . command is used to add the files into the staging area
+
+ The staging area in Git is like a waiting room where you place your changes before committing them to the project’s history.
+
+<p align="center">
+<img src='./Git Images/git add ..jpg' width='90%'>
+</p>
+
+<hr>
+
+### 8. `git status`
+
+ The git status command in Git is used to display the current state of the working directory and staging area. 
+ It helps you understand which changes have been made, which files are staged for commit, and which files are not being tracked by Git.
+
+<p align="center">
+<img src='./Git Images/git status.jpg' width='90%'>
+</p>
+
+<hr>
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
