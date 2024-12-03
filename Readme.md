@@ -94,6 +94,8 @@
 
 - `parseInt()` parseInt() function is used for conversion to the integer. Conversion of data type from one to another is called type casting.
 
+<br>
+<br>
 
 ### <p align="center"> Git and GitHub Important Commands</p>
 <br>
@@ -197,8 +199,32 @@ The git init command is used to initialize a new Git repository in a project dir
 <hr>
 
 
+### 8. `git commit`
+
+ The git status command in Git is used to display the current state of the working directory and staging area. 
+ It helps you understand which changes have been made, which files are staged for commit, and which files are not being tracked by Git.
+
+<p align="center">
+<img src='./Git Images/git status.jpg' width='90%'>
+</p>
+
+<hr>
+
+
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+
+The git log command is used to view the history of commits in your Git repository.
+
+What it shows:
+The commit ID (a unique hash for each commit).
+The author of the commit.
+The date when the commit was made.
+The commit message, which describes what changes were made.
