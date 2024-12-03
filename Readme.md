@@ -201,11 +201,20 @@ The git init command is used to initialize a new Git repository in a project dir
 
 ### 8. `git commit`
 
- The git status command in Git is used to display the current state of the working directory and staging area. 
- It helps you understand which changes have been made, which files are staged for commit, and which files are not being tracked by Git.
+ The git commit command is used to save your changes in Git with a message describing what you did.
 
 <p align="center">
-<img src='./Git Images/git status.jpg' width='90%'>
+<img src='./Git Images/git commit.jpg' width='100%'>
+</p>
+
+<hr>
+
+### 8. `git commit`
+
+ The git commit command is used to save your changes in Git with a message describing what you did.
+
+<p align="center">
+<img src='./Git Images/git commit.jpg' width='100%'>
 </p>
 
 <hr>
