@@ -220,16 +220,6 @@ The git init command is used to initialize a new Git repository in a project dir
 <hr>
 
 
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-
 The git log command is used to view the history of commits in your Git repository.
 
 What it shows:
@@ -237,3 +227,11 @@ The commit ID (a unique hash for each commit).
 The author of the commit.
 The date when the commit was made.
 The commit message, which describes what changes were made.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zahidkhattak.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zahid-cs/)
+
+
