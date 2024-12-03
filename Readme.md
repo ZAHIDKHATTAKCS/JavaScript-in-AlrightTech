@@ -209,12 +209,12 @@ The git init command is used to initialize a new Git repository in a project dir
 
 <hr>
 
-### 8. `git commit`
+### 8. `git push`
 
- The git commit command is used to save your changes in Git with a message describing what you did.
+ The git push command is used to upload your local commits to a remote repository, like GitHub.
 
 <p align="center">
-<img src='./Git Images/git commit.jpg' width='100%'>
+<img src='./Git Images/push command.jpg' width='100%'>
 </p>
 
 <hr>
