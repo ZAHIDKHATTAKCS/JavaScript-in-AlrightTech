@@ -1,4 +1,4 @@
-<img src="https://www.alrighttech.com/_next/static/media/Logo.f0250850.svg" width='40%' align="right">
+<img src="./AlrightTech-logo.svg" width='40%' align="right">
 <img src="https://avatars.githubusercontent.com/u/103638880?s=400&u=006612f2d5fe757ca8afebd58eb0e7014c230094&v=4" width="200px" style="border-radius:50%;">
 <h4> Employee Id : 0396</h4>
 <h4> Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Zahid Khattak</h4>
@@ -220,13 +220,43 @@ The git init command is used to initialize a new Git repository in a project dir
 <hr>
 
 
-The git log command is used to view the history of commits in your Git repository.
+### 9. `git log`
+
+ The git log command is used to view the history of commits in your Git repository.
 
 What it shows:
 The commit ID (a unique hash for each commit).
 The author of the commit.
 The date when the commit was made.
 The commit message, which describes what changes were made.
+
+
+
+<p align="center">
+<img src='./Git Images/git log.jpg' width='100%'>
+</p>
+
+`Note` you can switch to the old version of your code by using git log commit id with checkout command
+
+for example you can switch to the old version by given command
+
+git checkout 90584748bsjed4895
+
+<hr>
+
+
+
+### 10. `git branch`
+
+ The git push command is used to upload your local commits to a remote repository, like GitHub.
+
+<p align="center">
+<img src='./Git Images/push command.jpg' width='100%'>
+</p>
+
+<hr>
+
+
 
 
 
